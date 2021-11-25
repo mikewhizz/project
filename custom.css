@@ -1,0 +1,89 @@
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+}
+.container-fluid{
+    background:url("resources/color.jpg");
+}
+.navbar-expand-sm{
+    background:url("resources/color.jpg");
+}
+.my-5 {
+    background:url("resources/color.jpg");
+    background-size: inherit;
+
+;
+}
+.carousel-inner{
+    width:120%;
+    height:50%;
+}
+.hello_world{
+    display: flex;
+    justify-content: space-around;
+}
+.footer p{
+
+    color: black;
+    text-align:center;
+    align-content: center;
+
+
+
+}
+.nav-item{
+    font-size: 15px;
+    font-weight: bold;
+}
+.theme{
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bolder;
+}
+.col-sm-4 p{
+
+    font-size :15px;
+    width:300%;
+}
+.col-sm-3  {
+    Padding:0;
+    margin:0;
+    font-size:20.49px;
+    color:grey;
+}
+
+.container-fluid h1{
+    font-size: 30px;
+}
+.z-depth-1-half{
+    min-height: 80%;
+}
+.text-center{
+    float: inside;
+    font-size: 15px;
+}
+.item {
+    width:100%;
+    height:auto;
+    object-fit: contain;
+}
+.footer{
+    background: url("resources/color.jpg");
+}
+.icon{
+    padding:5px;
+
+}
+.col-sm-4>h5{
+    text-align: center;
+}
+.img-circle{
+    width: 50%;
+    height:100%;
+}
+
+
+
+
+
